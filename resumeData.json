@@ -1,0 +1,242 @@
+{
+  "main": {
+    "name":"Palash Chaudhari",
+    "description":"Microsoft Certified Azure Data Engineer with 4+ years of experience in Azure, AWS, ETL, Spark and strong expertise in distributed data processing.",
+    "image":"profilepic.jpg",
+    "bio1": "Palash is a passionate Data Engineer having four year of experience in Spark, Snowflake, Databricks, Airflow, Azure, AWS, SQL, and Python. Over the period, he has worked with different clients in various roles, with the main motivation of building robust and scalable pipelines to serve meaningful data to theend users.",
+    "bio2": "During my tenure at both Cognizant and the University of San Francisco, I demonstrated proficiency in transforming data infrastructures and driving impactful insights. I engineered ETL pipelines utilizing Azure Data Factory, PySpark, and SQL to extract data from 118 diverse sources and load it into Synapse. Additionally, I designed key performance indicators for loan lending and repayment, enhancing financial analysis capabilities. At both organizations, I conducted rigorous data quality checks and streamlined workflows, leveraging technologies like Airflow DAGs and Azure DevOps to automate tasks and save significant manual effort. My multifaceted experience in data engineering and analytics has equipped me with a robust skill set to tackle complex challenges and drive meaningful outcomes.",
+    "contactmessage":"Please fill the details below and I'll contact you ASAP!",
+    "email": "palash.chaudhari95@gmail.com",
+    "phone": "(669) 302 5069",
+    "github":"https://github.com/palash1995",
+    "linkedIn":"https://www.linkedin.com/in/palashchaudhari/",
+    "portfolio": "",
+    "degree": "Master of Science (M.S.)",
+    "address":{
+      "city":"San Francisco",
+      "state":"CA",
+      "country":"USA"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/palashchaudhari/",
+        "icon":"linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/palash1995",
+        "icon":"github"
+      },
+      {
+        "name":"medium",
+        "url":"https://medium.com/@palash1995",
+        "icon":"medium"
+      }
+    ],
+    "topSkills":[
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"90%"
+      },
+      {
+        "name":"Spark",
+        "level":"85%"
+      },
+      {
+        "name":"ETL",
+        "level":"85%"
+      },
+      {
+        "name":"Airflow",
+        "level":"80%"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of San Francisco, USA",
+        "degree":"Master of Science, Information Systems",
+        "graduated":"December 2023",
+        "gpa": "3.93",
+        "description":"Course Work: Data Architecture and Management, Information Architecture, Predictive Analytics, Business Analytics for IS"
+      },
+      {
+        "school":"Savitribai Phule Pune University, India",
+        "degree":"Bachelor of Engineering, Electronics and Telecommunications",
+        "graduated":"May 2017",
+        "gpa": "3.50",
+        "description":"Course Work: Data Structures and Algorithms, Computer Organization, System Programming, Object-Oriented Programming."
+      }
+    ],
+    "work":[
+      {
+        "company":"University of San Francisco",
+        "title":"Data Engineer - Internship",
+        "years":"March 2023 - November 2023",
+        "description":[
+          "Transformed data warehouse by implementing dimensional model schema in Snowflake, reducing query response time by 50%.",
+          "Implemented scalable Spark data pipelines using Databricks and Azure Data Factory to extract and clean data using multiple REST APIs, resulting standardization of over 400 thousand data monthly.",
+          "Leveraged databricks PySpark for data quality checks, reducing data quality issues from an average of 60 per week to 2-3.",
+          "Led the migration of data from on-prem server to Azure cloud storage, reducing monthly compute and storage cost by 30%.",
+          "Architected ETL process for financial data metrics, leading to a creation of custom dashboard in Tableau."
+        ]
+      },
+      {
+        "company":"Cognizant",
+        "title":"Data Engineer",
+        "years":"April 2019 - July 2022",
+        "description":[
+          "Engineered ETL pipelines using Azure Data Factory, PySpark and SQL that extract data from 118 diverse sources across the global region and load into Synapse.",
+          "Designed loan lending and repayment KPIs by creating cumulative table to analyze financial strength of the business.",
+          "Conducted comprehensive data quality checks on over 200 GB of data monthly to enhanced the accuracy of ad-hoc reports.",
+          "Orchestrated data processing tasks and streamlined workflows by creating Airflow DAGs to extract regulatory reports, saving over 30 hours of manual effort per week.",
+          "Maintained smooth integration and deployment of store procedure scripts by managing CI/CD pipelines using Azure DevOps."
+        ]
+      },
+      {
+        "company":"Cognizant",
+        "title":"Database Engineer",
+        "years":"April 2018 - March 2019",
+        "description":[
+          "Migrated a unified Data Warehouse from Sybase to AWS Redshift, centralizing diverse datasets, reducing yearly cost by 20%.",
+          "Optimized performance issue with indexing and table partitioning, resulting system runtime reduced from 3 to 1.5 hours.",
+          "Designed DB-Fit script to automate unit test for result-set comparison, leading to a 50% reduction in manual workload.",
+          "Developed packages for deploying code during System Integrated Testing (SIT) and contributed to documentations."
+        ]
+      }
+    ],
+    "skillsList": {
+      "Programing Languages": "Python, SQL, PySpark, Java",
+      "Data Engineering Skills": "Spark, Airflow, Snowflake, Databricks, Data Modeling, ETL, CI/CD, Git",
+      "Azure Cloud": "Azure Data Factory, Synapse Analytics, Streaming Analytics, Event Hub, Blob, DevOps pipeline.",
+      "AWS Cloud": "S3 Storage, Redshift, DynamoDB, Lambda, Glue, Kinesis, EMR, CloudWatch, Athena, QuickSight.",
+      "Databases": "Trino, Presto, MySQL, MS SQL, Oracle, PostgreSQL",
+      "File Format": "Parquet, Avro, JSON, ORC, CSV, XML",
+      "Project Management" : "Agile, DevOps, JIRA, Scrum, Kanban, ServiceNow, Miro"
+    },
+    "certifications": [
+      {
+        "name": "Microsoft Certified Azure Data Engineering Associate (DP-203)",
+        "issuedOn": "December 2023",
+        "link": "https://learn.microsoft.com/en-gb/users/palashchaudhari-2212/credentials/2ba2eea7a3a2121b?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+      },
+      {
+        "name": "Building and Evaluating Advanced RAG Applications",
+        "issuedOn": "March 2024",
+        "link": "https://learn.microsoft.com/en-gb/users/palashchaudhari-2212/credentials/2ba2eea7a3a2121b?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+      },
+      {
+        "name": "Databricks Lakehouse Fundamentals",
+        "issuedOn": "March 2024",
+        "link": "https://credentials.databricks.com/f9187413-eb97-4432-9412-1b77abd43f33#gs.6f1rhw"
+      },
+      {
+        "name": "Databricks Generative AI Fundamentals",
+        "issuedOn": "March 2024",
+        "link": "https://www.credly.com/badges/6a48d1f2-ac6e-4d2a-b965-4c0e7d473420"
+      },
+      {
+        "name": "Business Analytics – Harvard Business School",
+        "issuedOn": "June 2023",
+        "link": "https://online.hbs.edu/verify-certificate?dvid=W2X7HP8G"
+      }
+    ],
+    "publications": [
+      {
+        "name": "Redundant Data Normalization using the Novel Data Mining Algorithms",
+        "issuedOn": "July - August 2020",
+        "link": "https://www.warse.org/IJATCSE/static/pdf/file/ijatcse361942020.pdf"
+      }
+    ],
+    "activities": [
+      {
+        "name": "Enlighten Rural India - Sampark Village Development and Educational Society",
+        "title":"Project Coordinator",
+        "years":"August 2017 - February 2018",
+        "description":[
+          "Facilitated computer and programming education for rural Indian children alongside basic science and mathematics subjects.",
+          "Enhanced awareness among them about recent advancements in technology and its implications.",
+          "Advocated the significance of education and encouraging them to pursue higher studies and degree programs."
+        ]
+      }
+    ]
+  },
+  "portfolio":{
+    "work": [
+      {
+        "title":"Data Engineering",
+        "description":"Build and maintain robust data pipelines, ensuring the efficient and reliable collection, using ETL tools",
+        "image":"data-pipeline.png",
+        "url":"https://github.com/palash1995"
+      },
+      {
+        "title":"Data Analysis",
+        "description":"Analyze datasets to extract meaningful insights and make data-driven decisions for business",
+        "image":"data-science.png",
+        "url":"https://github.com/palash1995"
+      },
+      {
+        "title":"Prompt Engineering",
+        "description":"Craft precise and context-aware prompts to get optimized responses from AI models.",
+        "image":"prompt-engineering.png",
+        "url":"https://github.com/palash1995"
+      },
+      {
+        "title":"Data Modeling",
+        "description":"Create ML models to uncover patterns and relationships within data, enabling strategic planning for businesses.",
+        "image":"software-development.png",
+        "url":"https://github.com/palash1995"
+      }
+    ],
+    "projects": [
+      {
+        "title":"Real-time Wrist Watch Data Processing with Kafka and Spark",
+        "description":"Developed real-time health data monitoring and analysis systems utilizing Kafka and Spark within Azure Databricks. These systems receive continuous data streams from wristwatches and leverage Medallion data Lakehouse architecture for efficient organization and processing of the data.",
+        "image":"video-interview.png",
+        "url":"https://github.com/palash1995/Real-time-Wrist-Watch-Data-Processing-with-Kafka-and-Spark",
+        "techStack":[]
+      },
+      {
+        "title":"Advertisement Impact Analysis using AWS Cloud and Snowflake",
+        "description":"Deployed an AWS-driven streaming pipeline to analyze the real-time effects of marketing campaigns. Data generated in real-time was stored in Snowflake for analysis of campaign performance. Python was employed for analytics tasks, while AWS tools like Lambda, Kinesis, S3, and SQS facilitated seamless data processing.",
+        "image":"stock-close.png",
+        "url":"",
+        "techStack":[]
+      },
+      {
+        "title":"Predictive Analytics and Reporting for COVID-19 using Azure Data Factory",
+        "description":"Engineered a end-to-end pipeline on Azure Data Factory for predictive analytics and reporting concerning COVID-19. This pipeline facilitated the gathering, processing, and analysis of COVID-19 data. I created insightful visualizations using Power BI to present the findings and insights derived from the data.",
+        "image":"flight-booking.png",
+        "url":"",
+        "techStack":[]
+      },
+      {
+        "title":"AWS based ETL pipeline for Music platforms",
+        "description":"Designed ETL pipeline to extracted the top 100 songs from Spotify, Amazon and Apple Music on a weekly basis utilizing using APIs. Leveraging Glue, I automated the cataloging process and inferred schemas, while Athena was employed for in-depth data analysis. QuickSight was utilized for visually presenting the music trends.",
+        "image":"cms.png",
+        "url":"https://github.com/palash1995/AWS-based-ETL-pipeline-for-Music-platforms",
+        "techStack":[]
+      },
+      {
+        "title":"FOREX Data Pipeline using Airflow",
+        "description":"Built the Forex Data Pipeline utilized Airflow to ingesting, processing, and analysis of foreign exchange data. It streamlined the collection of real-time market data, enabling traders to make informed decisions based on up-to-date insights, enhancing their ability to navigate the dynamic currency trading landscape effectively.",
+        "image":"malware-detection.png",
+        "url":"https://github.com/palash1995/FOREX-Data-Pipeline-using-Airflow",
+        "techStack":[]
+      },
+      {
+        "title":"Customer Review Analysis",
+        "description":"Analyzed customer feedback for British Airways entails gathering data, cleaning it, visualizing trends, and using advanced transformer models to classify sentiment. This process provides valuable insights into customer opinions, enhancing understanding of their experiences. Used Python and Jupyter notebook.",
+        "image":"ba-review.png",
+        "url":"https://github.com/palash1995/Customer-Review-Analysis",
+        "techStack":[]
+      }
+    ]
+  }
+}
