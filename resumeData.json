@@ -206,14 +206,14 @@
         "title":"Advertisement Impact Analysis using AWS Cloud and Snowflake",
         "description":"Deployed an AWS-driven streaming pipeline to analyze the real-time effects of marketing campaigns. Data generated in real-time was stored in Snowflake for analysis of campaign performance. Python was employed for analytics tasks, while AWS tools like Lambda, Kinesis, S3, and SQS facilitated seamless data processing.",
         "image":"stock-close.png",
-        "url":"",
+        "url":"https://github.com/palash1995/Advertisement-Impact-Analysis-using-AWS-Cloud-and-Snowflake",
         "techStack":[]
       },
       {
         "title":"Predictive Analytics and Reporting for COVID-19 using Azure Data Factory",
         "description":"Engineered a end-to-end pipeline on Azure Data Factory for predictive analytics and reporting concerning COVID-19. This pipeline facilitated the gathering, processing, and analysis of COVID-19 data. I created insightful visualizations using Power BI to present the findings and insights derived from the data.",
         "image":"flight-booking.png",
-        "url":"",
+        "url":"https://github.com/palash1995/Predictive-Analytics-and-Reporting-for-COVID-19-using-Azure-Data-Factory",
         "techStack":[]
       },
       {
