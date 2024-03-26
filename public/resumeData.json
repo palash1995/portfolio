@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Palash Chaudhari",
-    "description":"Microsoft Certified Azure Data Engineer with 4+ years of experience in Azure, AWS, ETL, Spark and strong expertise in distributed data processing.",
+    "description":"Astronomer’s Apache Airflow Fundamental Certified and Microsoft Certified Azure Data Engineer with 4+ years of experience in Azure, AWS, ETL, Spark and strong expertise in distributed data processing.",
     "image":"profilepic.jpg",
     "bio1": "Palash is a passionate Data Engineer having four year of experience in Spark, Snowflake, Databricks, Airflow, Azure, AWS, SQL, and Python. Over the period, he has worked with different clients in various roles, with the main motivation of building robust and scalable pipelines to serve meaningful data to theend users.",
     "bio2": "During my tenure at both Cognizant and the University of San Francisco, I demonstrated proficiency in transforming data infrastructures and driving impactful insights. I engineered ETL pipelines utilizing Azure Data Factory, PySpark, and SQL to extract data from 118 diverse sources and load it into Synapse. Additionally, I designed key performance indicators for loan lending and repayment, enhancing financial analysis capabilities. At both organizations, I conducted rigorous data quality checks and streamlined workflows, leveraging technologies like Airflow DAGs and Azure DevOps to automate tasks and save significant manual effort. My multifaceted experience in data engineering and analytics has equipped me with a robust skill set to tackle complex challenges and drive meaningful outcomes.",
@@ -121,6 +121,11 @@
       "Project Management" : "Agile, DevOps, JIRA, Scrum, Kanban, ServiceNow, Miro"
     },
     "certifications": [
+       {
+        "name": "Astronomer Apache Airflow Fundamentals Certification",
+        "issuedOn": "March 2024",
+        "link": "https://www.credly.com/badges/b4323f1d-5d95-4316-96b0-d36fc04a8420/linked_in_profile"
+      },
       {
         "name": "Microsoft Certified Azure Data Engineering Associate (DP-203)",
         "issuedOn": "December 2023",
