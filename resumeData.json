@@ -104,7 +104,7 @@
           "Orchestrated data processing tasks and streamlined workflows by creating Airflow DAGs to extract regulatory reports, saving over 30 hours of manual effort per week.",
           "Developed and implemented comprehensive data governance policies using Azure Purview, which led to a significant reduction in security incidents by 20% within the first year.",
           "Embedded Machine Learning models seamlessly into fraud detection systems within the production pipelines, yielding a significant 35% improvement in predictive precision for identifying and mitigating fraudulent activities.",
-          "Maintained continuous integration and deployment of SQL and Store Procedures scripts by managing CI/CD pipelines using Azure DevOps."
+          "Maintained continuous integration and deployment of SQL and Store Procedures scripts by managing CI/CD pipelines using Azure DevOps.",
         ]
       },
       {
