@@ -80,23 +80,31 @@
         "title":"Data Engineer - Internship",
         "years":"March 2023 - November 2023",
         "description":[
-          "Transformed data warehouse by implementing dimensional model schema in Snowflake, reducing query response time by 50%.",
-          "Implemented scalable Spark data pipelines using Databricks and Azure Data Factory to extract and clean data using multiple REST APIs, resulting standardization of over 400 thousand data monthly.",
-          "Leveraged databricks PySpark for data quality checks, reducing data quality issues from an average of 60 per week to 2-3.",
-          "Led the migration of data from on-prem server to Azure cloud storage, reducing monthly compute and storage cost by 30%.",
-          "Architected ETL process for financial data metrics, leading to a creation of custom dashboard in Tableau."
+          "Transformed data warehouse by implementing dimensional model schema in Synapse, reducing query response time by 50%.",
+          "Architected scalable Spark data pipelines using Azure Data Factory, Databricks and Blob storage to extract and process data using REST APIs, resulting standardization of over 400 thousand data monthly.",
+          "Designed and implemented a data infrastructure migration strategy, successfully migrating 50TB of data from an on-premise server to the Azure cloud platform, reducing monthly compute and storage cost by 30%.",
+          "Improved data availability and refresh rates for essential business dashboards and decision-making processes by implementing automated data ingestion and ETL workflows utilizing SQL Server and SSIS, thereby optimizing operational efficiency.",
+          "Integrated Databricks Spark with data lake solutions using ADF, ADLS Gen2, enabling advanced analytics and reducing data processing time for large datasets by 40%.",
+          "Leveraged Python and SQL for data quality checks, reducing PII data quality issues from an average of 60 per week to 2-3.",
+          "Implemented Medallion Architecture to streamline the transformation process of financial data, subsequently enabling the creation of customized metrics and a Tableau dashboard."
         ]
       },
       {
         "company":"Cognizant",
-        "title":"Data Engineer",
+        "title":"Database Engineer",
         "years":"April 2019 - July 2022",
         "description":[
-          "Engineered ETL pipelines using Azure Data Factory, PySpark and SQL that extract data from 118 diverse sources across the global region and load into Synapse.",
-          "Designed loan lending and repayment KPIs by creating cumulative table to analyze financial strength of the business.",
+          "Designed ETL pipelines using Azure Data Factory, PySpark, Azure Blob that extract data from 118 diverse sources across the global region in SQL Server and load into Snowflake.",
+          "Implemented Type 1 and Type 2 SCD (Slowly Changing Dimensions) methodologies in dimension tables to maintain historical data integrity and handled the Change Data Capture (CDC) using SSIS.",
+          "Implemented data encryption and role-based access control (RBAC) to ensure data governance and compliance, particularly for sensitive financial data, thereby fortifying security measures and mitigating risks.",
+          "Optimized SQL queries by implementing clustering keys, efficient joins, and leveraging query profiling tools like Execution Plan to enhance performance and reduce data processing times.",
+          "Initiated the use of NoSQL databases with Cosmos DB data consistency models and comprehensive logging capabilities to ensure data integrity and create traceable audit trails, thereby enhancing regulatory compliance and auditing processes within the bank.",
+          "Engineered a comprehensive financial strength analysis model by creating cumulative tables and OLAP cubes using SSAS to assess loan lending and repayment performance metrics, driving a 25% improvement in loan portfolio profitability.",
           "Conducted comprehensive data quality checks on over 200 GB of data monthly to enhanced the accuracy of ad-hoc reports.",
           "Orchestrated data processing tasks and streamlined workflows by creating Airflow DAGs to extract regulatory reports, saving over 30 hours of manual effort per week.",
-          "Maintained smooth integration and deployment of store procedure scripts by managing CI/CD pipelines using Azure DevOps."
+          "Developed and implemented comprehensive data governance policies using Azure Purview, which led to a significant reduction in security incidents by 20% within the first year.",
+          "Embedded Machine Learning models seamlessly into fraud detection systems within the production pipelines, yielding a significant 35% improvement in predictive precision for identifying and mitigating fraudulent activities.",
+          "Maintained continuous integration and deployment of SQL and Store Procedures scripts by managing CI/CD pipelines using Azure DevOps.",
         ]
       },
       {
@@ -105,9 +113,15 @@
         "years":"April 2018 - March 2019",
         "description":[
           "Migrated a unified Data Warehouse from Sybase to AWS Redshift, centralizing diverse datasets, reducing yearly cost by 20%.",
-          "Optimized performance issue with indexing and table partitioning, resulting system runtime reduced from 3 to 1.5 hours.",
-          "Designed DB-Fit script to automate unit test for result-set comparison, leading to a 50% reduction in manual workload.",
-          "Developed packages for deploying code during System Integrated Testing (SIT) and contributed to documentations."
+          "Authored SSIS packages for processing Fact and Dimension tables with complex transforms, handling Change Data Capture (CDC) and Type-2 SCD, reducing data processing time by 30%.",
+          "Deployed SSIS packages to extract data from OLTP to SQL Server Analysis Services (SSAS) and scheduled jobs to call the packages, leading to a 50% reduction in manual workload.",
+          "Created SSIS Packages using ETL tools such as SSIS Designer for exporting heterogeneous data from Sybase DB Source, Excel Spreadsheet to SQL Server.",
+          "Conducted comprehensive audits of existing BI processes, identifying and rectifying data integrity issues, which resulted in a 20% increase in data accuracy and a significant boost in stakeholder trust.",
+          "Optimized SQL performance through partitioning, indexing, clustering, resulting system runtime reduced from 3 to 1.5 hours.",
+          "Crafted SSRS reports using SSAS Tabular DAX, Multidimensional cubes (MDX) for streamlining decision-making processes.",
+          "Migrated a unified Data house from Sybase IQ to Azure SQL data warehouse, reducing yearly license cost by 20%.",
+          "Created SQL scripts to extract and transform complex financial datasets for regulatory reporting, ensuring 100% compliance.",
+          "Enforced robust data security measures in compliance with GDPR, leading to 95% audit compliance rate and zero data breaches."
         ]
       }
     ],
